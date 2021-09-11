@@ -1,0 +1,31 @@
+[INFO] 19:55:54:941 Servidor/(6298:6298): Servidor listo para recibir al cliente
+[INFO] 19:56:42:508 Servidor/(6343:6343): Servidor listo para recibir al cliente
+[INFO] 19:58:48:979 Servidor/(6343:6343): Se conecto un cliente!
+[INFO] 19:58:48:980 Servidor/(6343:6343): Me llego el mensaje Hola
+[INFO] 19:58:48:980 Servidor/(6343:6343): Me llegaron los siguientes valores:
+
+[ERROR] 19:58:48:980 Servidor/(6343:6343): el cliente se desconecto. Terminando servidor
+[INFO] 19:58:58:717 Servidor/(6463:6463): Servidor listo para recibir al cliente
+[INFO] 20:00:10:740 Servidor/(6463:6463): Se conecto un cliente!
+[INFO] 20:00:27:572 Servidor/(6463:6463): Me llego el mensaje Hola
+[INFO] 20:01:14:573 Servidor/(6463:6463): Me llegaron los siguientes valores:
+
+[ERROR] 20:01:29:127 Servidor/(6463:6463): el cliente se desconecto. Terminando servidor
+[INFO] 20:03:29:297 Servidor/(6632:6632): Servidor listo para recibir al cliente
+[INFO] 20:04:51:612 Servidor/(6712:6712): Servidor listo para recibir al cliente
+[INFO] 20:06:17:639 Servidor/(6712:6712): Se conecto un cliente!
+[INFO] 20:06:26:916 Servidor/(6712:6712): Me llego el mensaje Hola
+[INFO] 20:06:42:521 Servidor/(6712:6712): Me llegaron los siguientes valores:
+
+[ERROR] 20:06:46:646 Servidor/(6712:6712): el cliente se desconecto. Terminando servidor
+[INFO] 20:15:50:210 Servidor/(7377:7377): Servidor listo para recibir al cliente
+[INFO] 20:15:57:713 Servidor/(7377:7377): Se conecto un cliente!
+[INFO] 20:15:57:713 Servidor/(7377:7377): Me llego el mensaje Hola
+[INFO] 20:15:57:713 Servidor/(7377:7377): Me llegaron los siguientes valores:
+
+[ERROR] 20:15:57:714 Servidor/(7377:7377): el cliente se desconecto. Terminando servidor
+[INFO] 20:16:19:201 Servidor/(7408:7408): Servidor listo para recibir al cliente
+[INFO] 20:16:25:177 Servidor/(7408:7408): Se conecto un cliente!
+[INFO] 20:16:25:178 Servidor/(7408:7408): Me llego el mensaje Hola
+[INFO] 20:16:25:178 Servidor/(7408:7408): Me llegaron los siguientes valores:
+[ERROR] 20:16:25:178 Servidor/(7408:7408): el cliente se desconecto. Terminando servidor
